@@ -1,0 +1,38 @@
+﻿/*.glyphicon-calendar:before {
+    content: "\d83d\dcc5";
+}*/
+.day, .next, .prev, .input-group-addon {
+    cursor: pointer;
+}
+
+.container {
+    float: left;
+}
+.button_container {
+    float: left;
+    height: 100%;
+    width: 200px;
+    margin-left: 30px;
+}
+.row-height {
+    display: table;
+    height: 100%;
+    table-layout: fixed;
+    width: 100%;
+}
+.col-sm-height {
+    display: table-cell;
+    float: none;
+    height: 100%;
+}
+
+.bar {
+    margin-top: 20px;
+    height: 200px;
+}
+
+#form_options {
+    float: left;
+    width: 200px;
+
+}
